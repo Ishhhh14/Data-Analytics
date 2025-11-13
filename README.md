@@ -1,32 +1,31 @@
 📊 Canadian Retail Sales Analysis — Power BI Dashboard
-📌 Overview
+📝 Project Overview
 
-This project analyzes Canadian Retail Sales across multiple provinces and retail sectors using an interactive Power BI dashboard.
-It highlights trends, seasonality, category performance, and key insights that can support decision-making for retail strategy, inventory planning, and economic analysis.
-
+This project analyzes Canadian Retail Sales across provinces and retail sectors using an interactive Power BI dashboard.
+It highlights trends, seasonality, performance patterns, and actionable business insights that support retail strategy, planning, and executive decision-making.
 🚀 Key Features
 
-Interactive Dashboard with filters for province, date, and retail category
+📍 Dynamic filters for province, category, and time period
 
-Trend Analysis for monthly and yearly retail performance
+📈 Trend analysis for monthly and yearly retail performance
 
-Category-Level Insights: which retail sectors are growing or declining
+🛍️ Category-level insights to identify growth & decline
 
-Geographical Insights: performance comparison across provinces
+🗺️ Geographical comparisons across provinces
 
-Forecasting (Optional) using Power BI analytics tools
+🔮 Optional forecasting using Power BI analytics
 
-Clean & Professional UI designed for business users
+🎨 Clean UI optimized for business users and presentations
 
 🛠️ Tools & Technologies
 
 Power BI – Data modeling, DAX, dashboard design
 
-Excel – Data source & cleaning
+Power Query – Cleaning & ETL
 
-Power Query – Transformations & ETL
+Excel – Source dataset
 
-DAX Measures – YOY growth, totals, category KPI calculations
+DAX – Time-based calculations & KPIs
 
 📂 Project Files
 File	Description
